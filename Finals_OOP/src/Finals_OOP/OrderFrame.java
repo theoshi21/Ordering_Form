@@ -381,7 +381,7 @@ class OrderFrame extends JFrame implements ActionListener {
         // Apply discount if valid
         try {
             double discount = Double.parseDouble(discountField.getText().trim());
-            if (!((discount >= 5 && discount <= 50))) {
+            if (!(discount == 0 || (discount >= 5 && discount <= 50))) {
                 JOptionPane.showMessageDialog(this, "Discount should be between 5% and 50%", "Error", JOptionPane.ERROR_MESSAGE);
                 return;
             }
