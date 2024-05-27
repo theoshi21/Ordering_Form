@@ -58,3 +58,13 @@ Cash: ₱2000
 Change: ₱280.50
 Date: Sun May 26 21:43:00 PST 2024
 -------------------------------
+Customer Name: N/A
+Product: Toblerone | Quantity: 23
+Product: Snickers | Quantity: 1
+Product: Hershey | Quantity: 3
+Discount: 0%
+Total: ₱1425.00
+Cash: ₱1425
+Change: ₱0.00
+Date: Mon May 27 09:59:04 PST 2024
+-------------------------------

@@ -396,7 +396,7 @@ class OrderFrame extends JFrame implements ActionListener {
         totalField.setText(String.format("%.2f", total));
     }
 
-    private void calculateChange() {
+    private void calculateChange() { 	
     	
     	
         calculateTotal();
